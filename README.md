@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a  project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+A real-time, intuitive Chat User Interface built with [Next.js](https://nextjs.org) and TypeScript. This project includes features like authentication, chat history management, and a responsive UI designed to offer a seamless user experience.
 ## Getting Started
 
 First, run the development server:
